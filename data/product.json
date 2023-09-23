@@ -1,0 +1,150 @@
+[
+    {
+        "cart_id":1,
+        "cart_name":"All categories",
+        "products":[
+            {
+                "id":1,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$12.99",
+                "image":"../img/book1.jpg"
+            },
+            {
+                "id":2,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$14.99",
+                "image":"../img/disc.jpg"
+            },
+            {
+                "id":3,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$0.85",
+                "image":"../img/food1.jpg"
+            },
+            {
+                "id":4,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$11.85",
+                "image":"../img/food2.jpg"
+            },
+            {
+                "id":5,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$49.90",
+                "image":"../img/parfume1.jpg"
+            },
+            {
+                "id":6,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$29.39",
+                "image":"../img/parfume2.jpg"
+            },
+            {
+                "id":7,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$18.99",
+                "image":"../img/book2.jpg"
+            },
+            {
+                "id":8,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$9.75",
+                "image":"../img/medical.jpg"
+            }
+        ]
+    },
+    {
+        "cart_id":2,
+        "cart_name":"Book",
+        "products":[
+            {
+                "id":9,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$12.49",
+                "image":"../img/book1.jpg"
+            },
+            {
+                "id":10,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$18.99",
+                "image":"../img/book2.jpg"
+            }
+        ]
+    },
+    {
+        "cart_id":3,
+        "cart_name":"Music",
+        "products":[
+            {
+                "id":11,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$14.99",
+                "image":"../img/disc.jpg"
+            }
+        ]
+    },
+    {
+        "cart_id":4,
+        "cart_name":"Food",
+        "products":[
+            {
+                "id":12,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$0.85",
+                "image":"../img/food1.jpg"
+            },
+            {
+                "id":13,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$11.85",
+                "image":"../img/food2.jpg"
+            }
+        ]
+    },
+    {
+        "cart_id":5,
+        "cart_name":"Parfume",
+        "products":[
+            {
+                "id":14,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$49.90",
+                "image":"../img/parfume1.jpg"
+            },
+            {
+                "id":15,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$29.39",
+                "image":"../img/parfume2.jpg"
+            }
+        ]
+    },
+    {
+        "cart_id":6,
+        "cart_name":"Medical",
+        "products":[
+            {
+                "id":16,
+                "name":"Creative Web Design",
+                "text":"Design | Branding",
+                "price":"$9.75",
+                "image":"../img/medical.jpg"
+            }
+        ]
+    }
+]
